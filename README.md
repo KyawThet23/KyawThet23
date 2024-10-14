@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&center=true&width=435&lines=Hello+Guys+!!!;I'm+Kyaw+Thet+Htun.;Cat+person" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+sarif&weight=600&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hello+Guys+!!!;I'm+Kyaw+Thet+Htun;A+developer+and+a+cat+person" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -16,6 +16,4 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>JavaScript</strong>
-
-  ***Developer with a passion for web and mobile***
 </div>
